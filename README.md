@@ -12,5 +12,4 @@ Completed – GUI app uploaded and functional.
 - Python
 - Tkinter (for GUI)
 
-## Author
-Akshaya (Teligiakshaya07)
+
