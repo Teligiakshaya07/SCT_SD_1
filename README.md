@@ -7,8 +7,7 @@ This repository was created for Task 1 of the Software Development track in the 
 To build a simple GUI-based Python application that allows user interaction.
 
 ## Status
-Planning phase – code will be added soon.
-
+Completed – GUI app uploaded and functional.
 ## Technologies
 - Python
 - Tkinter (for GUI)
